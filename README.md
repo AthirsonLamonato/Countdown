@@ -1,6 +1,6 @@
 # Countdown
 
-Cronometro
+Countdown
 
 ## Getting Started
 
