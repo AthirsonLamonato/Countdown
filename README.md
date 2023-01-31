@@ -1,7 +1,8 @@
 # Countdown
 
-Countdown
+Countdown - Contagem Regressiva
 
-## Getting Started
+Aplicação em Flutter, de contagem regressiva
 
-This project is a starting point for a Flutter application with the learning objective.
+
+
